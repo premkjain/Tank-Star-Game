@@ -1,0 +1,47 @@
+
+Tanks_weapons_boxes.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Spectre
+  rotate: false
+  xy: 0, 136
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+SpectreEnemy
+  rotate: false
+  xy: 128, 136
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+Toxic
+  rotate: false
+  xy: 0, 64
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: -1
+ToxicEnemy
+  rotate: false
+  xy: 128, 64
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: -1
+Abrams
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+AbramsEnemy
+  rotate: false
+  xy: 64, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
